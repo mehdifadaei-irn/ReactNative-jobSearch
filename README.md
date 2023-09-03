@@ -1,9 +1,8 @@
 ## JobSearch app by MehdiFadaei
 
-![CV](./assets/readme/m.jpg)
-![CV](./assets/readme/m1.jpg)
-![CV](./assets/readme/m2.jpg)
-![CV](./assets/readme/m3.jpg)
-![CV](./assets/readme/m33.jpg)
+![CV](./assets/m1.jpg)
+![CV](./assets/m2.jpg)
+![CV](./assets/m3.jpg)
+![CV](./assets/m33.jpg)
 
 ## with reactNative And Expo
